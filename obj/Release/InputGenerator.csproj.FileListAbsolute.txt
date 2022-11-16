@@ -1,0 +1,15 @@
+D:\Development\C#\WPF\InputGenerator\bin\Release\InputGenerator.exe.config
+D:\Development\C#\WPF\InputGenerator\bin\Release\InputGenerator.exe
+D:\Development\C#\WPF\InputGenerator\bin\Release\InputGenerator.pdb
+D:\Development\C#\WPF\InputGenerator\obj\Release\MainWindow.g.cs
+D:\Development\C#\WPF\InputGenerator\obj\Release\App.g.cs
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator_MarkupCompile.cache
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator_MarkupCompile.lref
+D:\Development\C#\WPF\InputGenerator\obj\Release\MainWindow.baml
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.g.resources
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.Properties.Resources.resources
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.csproj.GenerateResource.cache
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.csproj.CoreCompileInputs.cache
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.exe
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.pdb
+D:\Development\C#\WPF\InputGenerator\obj\Release\InputGenerator.csprojAssemblyReference.cache
